@@ -1,0 +1,113 @@
+.navbar{
+    border-bottom-left-radius: 60px;
+    border-bottom-right-radius: 60px;
+    background-color:  #93291E;
+}
+
+#nav{
+    border-radius: 50px;
+}
+
+.carousel-control-prev{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.carousel-control-next{
+    width: 40px;
+    height: 40px;
+    background-color: black;
+    border-radius: 50%;
+}
+
+.form-control{
+    background-color: black;
+    border: solid 2px white;
+}
+ .btn-secondary{
+     background-color: orangered;
+     width: 260px;
+     color: white;
+ }
+ .lead{
+     border: solid 2px black;
+     border-top: none;
+     border-left: none;
+     border-right: none;
+     color: white;
+     font-weight: bold;
+ }
+ .f-social{
+     padding-bottom: 10px;
+     margin: 0;
+     margin-top: 20px;
+ }
+.f-social li a{
+    font-size: 18px;
+    color: black;
+    width: 38px;
+    height: 38px;
+    display: block;
+    text-align: center;
+    line-height: 38px;
+    background: #FFFFff;
+    border-radius: 4px;
+}
+
+.copyright{
+    margin-top:  20px;
+    position: relative;
+    display: block;
+    background-color: black;
+    border-top: 1px solid wheat;
+    padding: 30px 0;
+    z-index: 1;
+}
+
+.copyright.company-name{
+    font-size: 16px;
+    text-align: center;
+}
+
+.copyright.company-name span{
+    color: red;
+     
+}
+
+.form{
+    display: flex;
+    justify-content: center;
+  
+
+}
+
+.rest{
+    display: flex;
+    justify-content: center;
+    color: orangered;
+}
+
+.card1{
+    display: flex;
+    justify-content: center;
+}
+.option{
+    display: flex;
+    justify-content: center;
+}
+
+.res{
+    color: orangered;
+    font-weight: bold;
+    font-size: 25px;
+
+}
+#inp{
+    display: flex;
+    justify-content: center;
+}
+.money p{
+    float: right;
+}
